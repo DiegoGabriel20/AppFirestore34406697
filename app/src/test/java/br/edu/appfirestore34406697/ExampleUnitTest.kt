@@ -1,4 +1,4 @@
-package com.example.appfirestore34406697
+package br.edu.appfirestore34406697
 
 import org.junit.Test
 

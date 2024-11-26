@@ -1,4 +1,4 @@
-package com.example.appfirestore34406697
+package br.edu.appfirestore34406697
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.appfirestore34406697.ui.theme.AppFirestore34406697Theme
+import br.edu.appfirestore34406697.ui.theme.AppFirestore34406697Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

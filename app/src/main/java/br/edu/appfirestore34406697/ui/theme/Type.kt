@@ -1,4 +1,4 @@
-package com.example.appfirestore34406697.ui.theme
+package br.edu.appfirestore34406697.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

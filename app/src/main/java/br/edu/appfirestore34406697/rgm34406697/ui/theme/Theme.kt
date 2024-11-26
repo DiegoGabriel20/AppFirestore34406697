@@ -1,4 +1,4 @@
-package com.example.appfirestore34406697.ui.theme
+package br.edu.up.rgm33824215.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun AppFirestore34406697Theme(
+fun AppFirebase33824215Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
