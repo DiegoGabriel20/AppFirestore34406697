@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "564869142754",
-    "project_id": "friendlyeats-57799",
-    "storage_bucket": "friendlyeats-57799.firebasestorage.app"
+    "project_number": "1033076809561",
+    "project_id": "appfirestore34406697",
+    "storage_bucket": "appfirestore34406697.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:564869142754:android:2630141d67801b83da66bb",
+        "mobilesdk_app_id": "1:1033076809561:android:249fd8a01876fc48d4b648",
         "android_client_info": {
-          "package_name": "br.edu.up.rgm33824215"
+          "package_name": "br.edu.up.rgm34406697"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCdn9ZjaSDRRpkUDIMVeUXBeQwzZhsPhVY"
+          "current_key": "AIzaSyBzO8lFaWFFZ2d0ALM40YO7Pf4CHMlNnkg"
         }
       ],
       "services": {
