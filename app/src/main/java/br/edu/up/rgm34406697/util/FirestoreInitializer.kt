@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215.util
+package br.edu.up.rgm34406697.util
 
 import android.content.Context
 import androidx.startup.Initializer

@@ -1,9 +1,9 @@
-package br.edu.up.rgm33824215
+package br.edu.up.rgm34406697
 
 import android.content.Context
 import android.text.TextUtils
-import br.edu.up.rgm33824215.model.Restaurant
-import br.edu.up.rgm33824215.util.RestaurantUtil
+import br.edu.up.rgm34406697.model.Restaurant
+import br.edu.up.rgm34406697.util.RestaurantUtil
 import com.google.firebase.firestore.Query
 
 /**

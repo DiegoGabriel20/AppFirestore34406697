@@ -29,6 +29,6 @@ dependencyResolutionManagement {
 }
 */
 
-rootProject.name = "AppFirebase33824215"
+rootProject.name = "AppFirebase34406697"
 include(":app")
 

@@ -1,11 +1,11 @@
-package br.edu.up.rgm33824215.adapter
+package br.edu.up.rgm34406697.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import br.edu.up.rgm33824215.databinding.ItemRatingBinding
+import br.edu.up.rgm34406697.databinding.ItemRatingBinding
 
-import br.edu.up.rgm33824215.model.Rating
+import br.edu.up.rgm34406697.model.Rating
 import com.google.firebase.firestore.Query
 import com.google.firebase.firestore.ktx.toObject
 import java.text.SimpleDateFormat

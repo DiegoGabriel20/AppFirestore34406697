@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215
+package br.edu.up.rgm34406697
 
 import android.content.Context
 import android.os.Bundle
@@ -6,9 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.DialogFragment
-import br.edu.up.rgm33824215.databinding.DialogFiltersBinding
+import br.edu.up.rgm34406697.databinding.DialogFiltersBinding
 //import com.google.firebase.example.fireeats.databinding.DialogFiltersBinding
-import br.edu.up.rgm33824215.model.Restaurant
+import br.edu.up.rgm34406697.model.Restaurant
 import com.google.firebase.firestore.Query
 
 /**

@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215
+package br.edu.up.rgm34406697
 
 import android.content.Context
 import android.os.Bundle
@@ -11,14 +11,13 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.bumptech.glide.Glide
 import com.google.android.gms.tasks.Task
-import com.google.android.gms.tasks.Tasks
 import com.google.android.material.snackbar.Snackbar
 //import com.google.firebase.example.fireeats.databinding.FragmentRestaurantDetailBinding
-import br.edu.up.rgm33824215.adapter.RatingAdapter
-import br.edu.up.rgm33824215.databinding.FragmentRestaurantDetailBinding
-import br.edu.up.rgm33824215.model.Rating
-import br.edu.up.rgm33824215.model.Restaurant
-import br.edu.up.rgm33824215.util.RestaurantUtil
+import br.edu.up.rgm34406697.adapter.RatingAdapter
+import br.edu.up.rgm34406697.databinding.FragmentRestaurantDetailBinding
+import br.edu.up.rgm34406697.model.Rating
+import br.edu.up.rgm34406697.model.Restaurant
+import br.edu.up.rgm34406697.util.RestaurantUtil
 import com.google.firebase.firestore.DocumentReference
 import com.google.firebase.firestore.DocumentSnapshot
 import com.google.firebase.firestore.EventListener

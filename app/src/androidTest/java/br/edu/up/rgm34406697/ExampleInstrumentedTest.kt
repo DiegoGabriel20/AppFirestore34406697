@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215
+package br.edu.up.rgm34406697
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

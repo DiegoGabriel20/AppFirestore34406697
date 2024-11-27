@@ -1,6 +1,5 @@
-package br.edu.up.rgm33824215.ui.theme
+package br.edu.up.rgm34406697.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
